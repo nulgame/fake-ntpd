@@ -28,11 +28,11 @@ Additional switches:
 
 ## Using
 
-You can use followien clients to connect to the _fntpd_.
+You can use following ntp clients to connect to the _fntpd_.
 
 - on Mac: sntp YOUR-FNTPD-IP
 - on Windows: net time ....
-- o Linux/BSD: ntpdate YOUR-FNTPD-IP
+- on Linux/BSD: ntpdate YOUR-FNTPD-IP
 
 Example of usage on Linux machine:
 ```shell
